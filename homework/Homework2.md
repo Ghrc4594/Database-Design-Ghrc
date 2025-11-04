@@ -171,6 +171,8 @@ Query Screenshots
 
 ![alt text](<Screenshot (171).png>)
 
+![alt text](<Screenshot (172).png>)
+
 Insert screenshots
 
 ![alt text](<Screenshot (163).png>)
